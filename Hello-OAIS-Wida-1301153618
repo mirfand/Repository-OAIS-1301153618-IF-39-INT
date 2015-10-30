@@ -1,6 +1,12 @@
-Program Hello;
-Uses Crt; 
-Begin
-  ClrScr;
-  Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar 
-End.
+Program OAIS-1301153618;
+        Uses Crt; 
+        Begin
+            ClrScr;
+            Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar 
+            Writeln(‘1301153618’); //Ubah untuk menampilkan NIM Anda
+            Writeln(‘Muhammad Irfan Dhiyaafakhri’); //Ubah untuk menampilkan Nama Anda
+			Writeln(‘IF-39-INT’); //Ubah untuk menampilkan Kelas Anda
+			Writeln(‘Wida’); //Ubah untuk menampilkan Nama Asprak Anda
+			Writeln(‘1301153621’); //Ubah untuk menampilkan NIM teman anda
+			Writeln(‘Modul 6’); //Ubah untuk menampilkan string ‘Modul 6
+        End.
